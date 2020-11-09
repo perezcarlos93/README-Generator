@@ -94,8 +94,8 @@ ${data.contributors}
 
 ## Contact Information <a name="Contact"></a>
 
-[email](${data.email})
-[github](http://www.github.com/${data.username})
+\n[email](${data.email})
+\n[github](http://www.github.com/${data.username})
 `,
 
     )
