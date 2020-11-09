@@ -1,33 +1,32 @@
-# README Helper
 
-    ## Table of Contents 
+# HELPER
 
-    [description](##Description)
-    [install](##Install)
-    [usage](##Usage)
-    [links](##Links)
-    [contact](##Contact)
+## Table of Contents 
 
-    ## Description <a name="Description"></a>
-    
-    This program helps with ReadME files!
+[description](##Description)
+[install](##Install)
+[usage](##Usage)
+[links](##Links)
+[contact](##Contact)
 
-    ## Install <a name="Install"></a>
-     
-    open in terminal and run through node. Answer all the questions
-    
+## Description <a name="Description"></a>
 
-    ## Usage <a name="Usage"></a>
-    
-    open in terminal and run through node. Answer all the questions
-    
-    ## Links <a name="Links"></a>
+    HELPS
 
-    ReadMeHelperhttps://github.com/perezcarlos93/README-Generator
+## Install <a name="Install"></a>
+ 
+    USE
 
-    ## Contact Information <a name="Contact"></a>
 
-    | E-mail | perez.carlos_a@yahoo.com    |
-    | GitHub | perezcarlos93 |
+## Usage <a name="Usage"></a>
 
-    
+    USE
+
+## Links <a name="Links"></a>
+
+    [HELPER](http://www.google.com)
+
+## Contact Information <a name="Contact"></a>
+
+    E-mail [email](perez.carlos_a@yahoo.com) 
+    GitHub [github](perezcarlos93)
